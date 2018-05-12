@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7526
     wikipedia: http://fr.wikipedia.org/wiki/Pierre_Zaccone
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17661#La-Recluse
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-02-02'
 gutenberg_type: Text
